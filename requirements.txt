@@ -2,5 +2,3 @@ langchain
 streamlit
 pypdf2
 python-dotenv
-openai
-tiktoken
